@@ -1,0 +1,85 @@
+{
+  "main": {
+    "name": "Krutika Walzade",
+    "occupation": " ",
+    "description": "",
+    "image": "profile.jpg",
+    "bio": "An enthusiast Data Engineer with experience in designing and implementing data pipelines, managing cloud infrastructure, and optimizing system performance. Proficient in Python, SQL and AWS services. Proven track record in leading projects and delivering actionable insights through data analysis.",
+    "contactmessage": "Get in touch with me!",
+    "email": "krutikawalzade@gmail.com",
+    "phone": "+91 7262979846",
+    "address": {
+      "street": "",
+      "city": "Mumbai",
+      "state": "",
+      "zip": "India"
+    },
+    "website": "https://krutika-portfolio.vercel.app/",
+    "resumedownload": "https://github.com/krutikawalzade/Resume/blob/main/RESUME.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/krutika-walzade-11970722a",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/krutikawalzade ",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Languages and Technologies",
+    "education": [
+      {
+        "school": "K.K Wagh Institute of Engineering Education & Research - Nashik",
+        "degree": "Bachelor of Engineering in Information Technology (BE in IT)",
+        "graduated": "July 2019 - May 2023"
+      }
+    ],
+    "work": [
+      {
+        "company": "Synergic Links Private Ltd - UK",
+        "title": "Data Engineer",
+        "years": "July 2023 - June 2024",
+        "description": "Client Consultation, Solution Customization, Sales Strategy Development, Relationship Building, Product Knowledge, Sales Presentations, Negotiation, Customer Support, Market Research"
+      },
+      {
+        "company": "Deacthlon",
+        "title": "Omni Sports Leader",
+        "years": "August 2022 - Present",
+        "description": "Digital marketing"
+      }
+    ],
+    "skills": [
+      {
+        "name": "",
+        "level": ""
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Calorie Advisor",
+        "category": "",
+        "image": "cal.jpg",
+        "url": "https://github.com/krutikawalzade/Calorie-Advisor"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "!",
+        "user": ""
+      }
+    ]
+  }
+}
